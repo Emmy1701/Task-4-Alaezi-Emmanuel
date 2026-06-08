@@ -13,7 +13,7 @@ Built an interactive Excel dashboard to analyze and track e-commerce sales perfo
 **Payment Mix**: 5 methods tracked - Cash, Card, Online, Gift Card.
 
 ### Dashboard Preview
-![Full Dashboard](screenshots/KPI_Overview.png)
+![Full Dashboard](/KPI_Overview.png)
 
 ### How to use
 Open 'Sales_Dashboard.xlsx'
